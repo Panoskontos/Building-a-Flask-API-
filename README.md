@@ -1,4 +1,4 @@
-# Building-a-Flask-API-
+# Building our own Flask API 
 
 &nbsp;
 &nbsp;
@@ -27,7 +27,7 @@
 &nbsp;
 &nbsp;
 
-# Data Structures we Used
+# Data Structures we Used to add Functionality
 
 
 &nbsp;
